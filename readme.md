@@ -1,14 +1,14 @@
-# 🧰 Python Toolbox
+# Python Toolbox
 
 A versatile collection of Python tools and design patterns for **AI**, **computer vision**, and **modern Python development**. This repo serves as a **reference library**, **learning playground**, and **launchpad** for smarter, reusable code.
 
 ---
 
-## 📦 What's Included
+## What's Included
 
-- 🧠 **AI & Vision Tasks**: frame processing, webcam pipelines, thresholding, etc.
-- 🧱 **OOP Design**: reusable classes, `self`-powered pipelines, method maps
-- 🧪 **Efficient Python**: lambdas, partials, argparse-based CLIs, directory tools
+- **AI & Vision Tasks**: frame processing, webcam pipelines, thresholding, etc.
+- **OOP Design**: reusable classes, `self`-powered pipelines, method maps
+- **Efficient Python**: lambdas, partials, argparse-based CLIs, directory tools
 
 ---
 
@@ -23,7 +23,7 @@ A versatile collection of Python tools and design patterns for **AI**, **compute
 
 ---
 
-### 🧱 Code Example: Build a Custom Pipeline
+### Code Example: Build a Custom Pipeline
 ```python
 def build_pipeline(self, steps):
     step_map = {
