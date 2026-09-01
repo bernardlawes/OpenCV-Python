@@ -14,7 +14,7 @@ A versatile collection of Python tools and design patterns for **AI**, **compute
 
 ## Demo Snapshots
 
-### 🎥 Live Frame Pipeline (Webcam View)
+### Live Frame Pipeline (Webcam View)
 ![Webcam Processing Pipeline](images/demo_webcam_pipeline.png)
 
 > Grayscale → Blur → Canny Edge Detection in real time.
