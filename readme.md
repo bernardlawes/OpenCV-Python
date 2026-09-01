@@ -4,7 +4,7 @@ A collection of Python tools and design patterns for **AI**, **computer vision**
 
 ---
 
-## What's Included
+## Contents
 
 - AI & Vision Tasks**: frame processing, webcam pipelines, thresholding, etc.
 - OOP Design**: reusable classes, `self`-powered pipelines, method maps
