@@ -12,7 +12,7 @@ A versatile collection of Python tools and design patterns for **AI**, **compute
 
 ---
 
-## 🖼️ Demo Snapshots
+## Demo Snapshots
 
 ### 🎥 Live Frame Pipeline (Webcam View)
 ![Webcam Processing Pipeline](images/demo_webcam_pipeline.png)
@@ -36,19 +36,19 @@ def build_pipeline(self, steps):
 
 
 
-🤝 Installation
+#### Installation
 git clone https://github.com/yourusername/python-toolbox.git
 cd python-toolbox
 pip install -r requirements.txt
 python main.py --steps gray blur canny
 
-🤝 Contributing
+#### Contributing
 Have a useful snippet, vision trick, or structural pattern to share? PRs and issues are welcome.
 
-📜 License
+#### License
 MIT License — use freely, build boldly.
 
-💡 Author Notes
+#### Notes
 This repo focuses on readable, modular, and production-friendly Python for real-world computer vision pipelines. Designed to grow with you.
 
 
